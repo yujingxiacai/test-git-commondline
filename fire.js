@@ -1,2 +1,2 @@
-console.log("fire the mountain");
+console.log("fire the mountain 🐂 🔥⛰⛰🔥");
 
