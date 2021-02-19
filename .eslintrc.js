@@ -16,7 +16,7 @@
 // };
 
 module.exports = {
-	extends: ['alloy', 'alloy/vue'],
+	extends: ['alloy'],
 	env: {
 		// Your environments (which contains several predefined global variables)
 		//
