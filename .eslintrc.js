@@ -33,7 +33,8 @@ module.exports = {
 	},
 	rules: {
 		// Customize your rules
-		quotes: ['error', 'single'],
+		'quotes': ['error', 'single'],
 		'prefer-const': ['error'],
+		'max-params':['error', 4]
 	},
 };

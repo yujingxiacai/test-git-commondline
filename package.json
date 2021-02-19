@@ -10,8 +10,7 @@
 	"lint-staged": {
 		"*.js": [
 			"eslint --fix --ext .js",
-			"prettier --write",
-			"git add"
+			"prettier --write"
 		]
 	},
 	"repository": {
